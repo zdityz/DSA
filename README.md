@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zdityz/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zdityz/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/zdityz/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/zdityz/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zdityz/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/zdityz/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zdityz/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zdityz/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zdityz/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -70,8 +73,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zdityz/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zdityz/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zdityz/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/zdityz/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
