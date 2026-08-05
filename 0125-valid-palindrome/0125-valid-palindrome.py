@@ -1,10 +1,8 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-        num = "0123456789"
         chars = []
         for i in s.lower():
-            if i in alpha or i in num:
+            if i.isalnum():
                 chars.append(i)
         word = ''.join(chars)
         
@@ -20,7 +18,4 @@ class Solution:
         for ch in chars:
             rev += ch
 
-        if rev==word:
-            return True
-        else:
-            return False
+        return rev == word
