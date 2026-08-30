@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zdityz/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/zdityz/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zdityz/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/zdityz/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/zdityz/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/zdityz/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/zdityz/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zdityz/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
