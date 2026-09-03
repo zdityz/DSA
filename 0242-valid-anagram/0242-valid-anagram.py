@@ -1,9 +1,11 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        seen={}
-        seen2={}
-        for ch in s:
-            seen[ch] = seen.get(ch, 0) + 1
-        for ch in t:
-            seen2[ch] = seen2.get(ch, 0) + 1
-        return seen == seen2
+        if len(s)!=len(t):
+            return False
+        count = {}
+        for i in s:
+            count[i] = count.get(i,0)+1
+        for i in t:
+            count[i] = count.get(i,0)-1
+
+        return all(value==0 for value in count.values())
