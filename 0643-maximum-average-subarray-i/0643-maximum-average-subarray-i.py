@@ -3,8 +3,10 @@ class Solution:
         window=0
         for i in range(k):
             window+=nums[i]
-        max_sum = window
+        
+        ans = window
+
         for i in range(k, len(nums)):
-            window=window-nums[i-k]+nums[i]
-            max_sum=max(window, max_sum)
-        return max_sum/k
+            window = window - nums[i-k] + nums[i]
+            ans = max(window,ans)
+        return ans/k
