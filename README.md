@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/zdityz/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zdityz/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zdityz/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/zdityz/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/zdityz/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/zdityz/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/zdityz/DSA/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zdityz/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/zdityz/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zdityz/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/zdityz/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/zdityz/DSA/tree/master/0268-missing-number) |
